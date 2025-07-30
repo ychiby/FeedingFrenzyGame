@@ -39,6 +39,14 @@ Includes:
 
 ---
 
+## 🗂️ Download the Full Game Project (ZIP)
+
+💾 [Click here to download the full game project (ZIP)](docs/FeedingFrenzy.zip)
+
+> Includes all source code, assets, documentation, and libraries.
+
+---
+
 ## 🧠 Architecture Overview
 *(coming soon or add your content here)*
 
